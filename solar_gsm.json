@@ -1,0 +1,11 @@
+{
+  "version": "60121",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        { "path": "https://raw.githubusercontent.com/FLINN-AWI/solar_gsm/main/firmware.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
